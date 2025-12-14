@@ -1,1 +1,1 @@
-# niker-calzados
+aplicación de sistema de comercio para zapaterías integral simple y robusta# niker-calzados
